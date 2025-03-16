@@ -4,8 +4,6 @@ A simple, secure, and user-friendly online password generator that helps users c
 
 🔗 **[Live Demo](https://yliu.tech/password-generator/)**
 
-![Password Generator Preview](https://via.placeholder.com/800x400?text=Password+Generator+Preview)
-
 ## ✨ Features
 
 - 🔐 Generate high-strength random passwords
