@@ -2,7 +2,7 @@
 
 A simple, secure, and user-friendly online password generator that helps users create high-strength random passwords.
 
-🔗 **[Live Demo](https://yliu.tech/projects/password-generator/)**
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Visualization-blue?style=for-the-badge&logo=react)](https://yliu.tech/projects/password-generator/)
 
 ## ✨ Features
 
